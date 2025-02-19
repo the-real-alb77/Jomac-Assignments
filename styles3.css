@@ -64,8 +64,8 @@ nav button {
   font-size: larger;
   width: 140px;
   height: 50px;
+  background:  linear-gradient(50deg, rgb(55, 3, 79) rgb(30, 0, 0, 0)) repeat;
   
-
 }
 nav button:hover {
   background-color: #8348e1;
