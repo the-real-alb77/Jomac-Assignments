@@ -1,0 +1,51 @@
+.form-container {
+  border: 3px solid #000;
+  border-radius: 13px;
+  background-color: none transparent;
+  padding: 15px;
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  color:#fff;
+}
+header {
+  background-color: #0970a3;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  text-transform: none;
+  border-bottom: 2px solid #fff;
+  font-weight: bold;
+  border-radius: 9px;
+}
+
+.form-address {
+  display: flex;
+  text-align: left;
+  
+}
+  
+select {
+  padding: 4px;
+  border-radius: 4px;
+  width: 200px;
+border: 1px solid #ccc;
+
+}
+body {
+  background-image: url("./logo_files/back1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+      
+}
+button {
+  background-color: rgb(255, 38, 0);
+  font-weight: bold;
+  border: #000;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  position: relative;
+}
